@@ -20,7 +20,7 @@
 	[window makeKeyAndVisible];
     
     
-    NSLog(@"applicationDidFinishLaunching");
+    NSLog(@"applicationDidFinishLaunching develop.");
 }
 
 - (void)dealloc {
