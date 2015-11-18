@@ -18,6 +18,9 @@
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
 	window.rootViewController = navController;
 	[window makeKeyAndVisible];
+    
+    
+    NSLog(@"applicationDidFinishLaunching");
 }
 
 - (void)dealloc {
