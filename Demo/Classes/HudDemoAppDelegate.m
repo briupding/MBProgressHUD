@@ -21,6 +21,9 @@
 
     NSLog(@"master");
     
+    NSLog(@"bugfix");
+    
+    
 }
 
 - (void)dealloc {
